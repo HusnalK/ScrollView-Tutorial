@@ -93,3 +93,16 @@ To implement a ScrollView, no java coding is required. All ScrollView attributes
         </LinearLayout> //Closing tag of the LinearLayout
 ```
 ## References 
+ScrollView. (n.d.). Retrieved from
+https://developer.android.com/reference/android/widget/ScrollView
+
+Android ScrollView (Horizontal, Vertical) with Examples. (n.d.). Retrieved from
+https://www.tutlane.com/tutorial/android/android-scrollview-horizontal-vertical-with-examples
+
+ScrollView And Horizontal ScrollView Tutorial With Example In Android. (n.d.). Retrieved from https://abhiandroid.com/ui/scrollview#Attributes_Of_Scroll_View
+
+Android ScrollView (Vertical). (n.d.). Retrieved from 
+https://www.javatpoint.com/android-scrollview-vertical
+
+ViewGroup.LayoutParams. (n.d.). Retrieved from 
+https://developer.android.com/reference/android/view/ViewGroup.LayoutParams
