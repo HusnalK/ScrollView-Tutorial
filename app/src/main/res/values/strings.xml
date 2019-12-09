@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">ScrollViewDemo</string>
+    <string name="Text1">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Mauris fermentum nulla vehicula,
+        dictum nisl in, volutpat felis. Proin consequat porta lacinia.
+        Vestibulum iaculis sodales tempus. Vestibulum ante ipsum primis
+        in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla
+        quis feugiat sapien. Quisque malesuada egestas erat ut eleifend.
+        Morbi in commodo nisl. </string>
+    <string name="Text2"> Nulla at finibus arcu, nec dignissim metus.
+    Sed consectetur gravida mi sit amet posuere. Phasellus et urna eu leo
+    posuere dictum nec eget ex. Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Aenean augue odio, sagittis fermentum dui a, maximus
+    fringilla dolor. Mauris accumsan dui a orci venenatis, et commodo purus
+    facilisis. Pellentesque habitant morbi tristique senectus et netus et
+    malesuada fames ac turpis egestas. Vestibulum quam nibh, rhoncus interdum
+    scelerisque a, tristique suscipit nulla. Quisque cursus, diam in maximus
+    laoreet, quam mi malesuada nulla, nec placerat libero metus sit amet felis.
+    Nulla facilisi. Nulla facilisi. Curabitur volutpat iaculis tortor eget malesuada.
+    Nunc sit amet nunc magna.</string>
 </resources>
+
