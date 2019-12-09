@@ -33,9 +33,10 @@ It is important to remember that while specifying a numeric value of layout_widt
 
 ## Code Output
 Down below is the app code, provided in this repository, running in the android studio emulator. It has a ScrollView which contains a LinearLayout. This LinearLayout helps in adding multiple views inside it. This app has two TextViews and two buttons which are larger than the screen size and can be scrolled.
+
 <img src="Images/emulator.gif" width="400" height="600" align="middle" alt="Emulator">
 
-## Example 
+## Instructions with Example Code
 To implement a ScrollView, no java coding is required. All ScrollView attributes are contained within the activity's XML layout file. 
 
 * To begin with, create a new Android project or use your own. In the code given below, a new project was created and an empty activity was chosen. It had a MainActivity.java file which was left untouched and an XML layout file that contained all the coding.
